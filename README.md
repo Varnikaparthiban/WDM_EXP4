@@ -47,7 +47,7 @@ plt.show()
 <img width="804" height="561" alt="image" src="https://github.com/user-attachments/assets/3c4b12ad-de1a-4eb6-b8d2-0148261b6de7" />
 
 
-### program - 2: 
+### Program - 2: 
 
 ```python
 
@@ -77,7 +77,9 @@ plt.show()
 
 <img width="247" height="551" alt="image" src="https://github.com/user-attachments/assets/f02cb672-6c39-4d0c-86c8-b6db5709752e" />
 
+
 <img width="133" height="616" alt="image" src="https://github.com/user-attachments/assets/584d4277-9a32-47ff-b25a-e3abe707eddb" />
+
 
 <img width="637" height="445" alt="image" src="https://github.com/user-attachments/assets/da8e05bb-1c6b-4047-b76f-cbcfa2ffbb80" />
 
