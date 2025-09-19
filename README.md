@@ -72,6 +72,7 @@ plt.xlabel('Age')
 plt.ylabel('Salary')
 plt.title('Clustered Data')
 plt.show()
+
 ```
 ### Output:
 
